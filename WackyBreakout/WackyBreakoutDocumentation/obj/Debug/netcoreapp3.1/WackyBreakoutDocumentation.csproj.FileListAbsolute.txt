@@ -1,0 +1,14 @@
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.csproj.AssemblyReference.cache
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.AssemblyInfoInputs.cache
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.AssemblyInfo.cs
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.csproj.CoreCompileInputs.cache
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\bin\Debug\netcoreapp3.1\WackyBreakoutDocumentation.exe
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\bin\Debug\netcoreapp3.1\WackyBreakoutDocumentation.deps.json
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\bin\Debug\netcoreapp3.1\WackyBreakoutDocumentation.runtimeconfig.json
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\bin\Debug\netcoreapp3.1\WackyBreakoutDocumentation.runtimeconfig.dev.json
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\bin\Debug\netcoreapp3.1\WackyBreakoutDocumentation.dll
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\bin\Debug\netcoreapp3.1\WackyBreakoutDocumentation.pdb
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.dll
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.pdb
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.genruntimeconfig.cache
+C:\Users\timch\Documents\0 Unity Staging\WackyBreakout\WackyBreakoutDocumentation\obj\Debug\netcoreapp3.1\WackyBreakoutDocumentation.GeneratedMSBuildEditorConfig.editorconfig

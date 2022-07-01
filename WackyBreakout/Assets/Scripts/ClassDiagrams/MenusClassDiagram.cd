@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MainMenu">
+    <Position X="1" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DifficultyMenu">
+    <Position X="1" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAACAAAAAAQAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\DifficultyMenu.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gameStartedEvent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="HelpMenu">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\HelpMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu">
+    <Position X="7.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuManager">
+    <Position X="6" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStartedEvent" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Events\GameStartedEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MenuName">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menus\MenuName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
